@@ -32,7 +32,7 @@ At Digital Sphere, we are passionate about developing websites and applications.
 ## 📫 Contact Us
 
 Want to collaborate or learn more about our products?  
-Visit our website (coming soon) or reach out via [Digital Sphere Mail](mailto:digitalsphere.burma@gmail.com)
+Visit our website (coming soon) or reach out via [mail](mailto:digitalsphere.burma@gmail.com)
 
 ---
 

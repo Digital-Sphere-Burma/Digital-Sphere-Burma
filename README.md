@@ -1,5 +1,5 @@
 # Digital Sphere
- <img src="https://avatars.githubusercontent.com/u/212134180?s=400&u=2af0c620ebc04e866f0075fab1f6971e5e69d1d8&v=4" alt="Digital Sphere Logo" width="100"/>
+ <img src="https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/497775008_122176242272287695_7390617425684415592_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=9bySGcBB8V4Q7kNvwGXSN3D&_nc_oc=AdnU1HTKVVGervKZZjBVaNbFoTQPQETZoCgoyui0c4AeWdiaby4cxP7KWlpVZj8ZNzM&_nc_zt=23&_nc_ht=scontent-sea1-1.xx&_nc_gid=DqdgUCqFyTRUIt6nDr-xGQ&oh=00_AfJKbAWFvQQDorQsJZw9oyuuVrxIzYYDG8WLtKDg7rfePw&oe=682F68DD" alt="Digital Sphere Logo" width="500"/>
 
 
 **Building What We Believe In**
